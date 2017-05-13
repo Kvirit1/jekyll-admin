@@ -6,3 +6,4 @@ gemspec
 # Site dependencies
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
+gem 'http://mariner-officers-47741.netlify.com/'
